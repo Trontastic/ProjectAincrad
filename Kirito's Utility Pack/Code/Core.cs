@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KUP
+namespace KUP.Code
 {
-    class Program
+    class Core
     {
-        static void Main(string[] args)
+        internal static void Init()
         {
-            Code.Core.Init();
+
         }
     }
 }
